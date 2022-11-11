@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.gifer.com/MQC.gif" align="center" height="" width="300" />
+<img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" align="center" height="" width="300" />
 </div>  
 
 ### <div align="center">I'm Leonid, a Java developer 👨‍💻 started my career since 2022 🚀</div>  
