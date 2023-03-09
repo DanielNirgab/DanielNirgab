@@ -5,13 +5,13 @@
 ### <div align="center">I'm Leonid, a Java developer 👨‍💻 started my career since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Telegram Bot for animal shelter](https://github.com/R30Radium/TeamJob)  
+- 🔭 
   
 
 - 🌱 I’m currently learning Spring, Hibernate, OAuth2, React😛  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓  
   
 
 - ⚡ Your ad could be here  
