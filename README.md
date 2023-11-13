@@ -2,17 +2,7 @@
 <img src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" align="center" height="" width="300" />
 </div>  
 
-### <div align="center">I'm Leonid, a Java developer 👨‍💻 started my career since 2022 🚀</div>  
-  
-
-- 🔭 
-  
-
-- 🌱 I’m currently learning Spring, Hibernate, OAuth2, React😛  
-  
-
-- ❓  
-  
+### <div align="center">I'm Leonid, started my career since 2022 🚀</div>  
 
 - ⚡ Your ad could be here  
   
