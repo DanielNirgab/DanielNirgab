@@ -4,7 +4,7 @@
 
 ### <div align="center">I'm Leonid, started my career since 2022 🚀</div>  
 
-- ⚡ Your ad could be here  
+- ⚡
   
 
 <br/>  
